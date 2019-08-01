@@ -1,0 +1,53 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - JdbcConn",
+            "request": "launch",
+            "mainClass": "app.JdbcConn",
+            "projectName": "java12test1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - JshTest",
+            "request": "launch",
+            "mainClass": "app.JshTest",
+            "projectName": "java12test1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StripSpaces",
+            "request": "launch",
+            "mainClass": "app.StripSpaces",
+            "projectName": "java12test1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - RepeatString",
+            "request": "launch",
+            "mainClass": "app.RepeatString",
+            "projectName": "java12test1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LinesAsCollection",
+            "request": "launch",
+            "mainClass": "app.LinesAsCollection",
+            "projectName": "java12test1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - IsBlank",
+            "request": "launch",
+            "mainClass": "app.IsBlank",
+            "projectName": "java12test1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "app.App",
+            "projectName": "java12test1"
+        }
+    ]
+}
