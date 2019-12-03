@@ -4,7 +4,7 @@ Java 11 Features
 2. lines(): This method is to return a collection of strings which are divided by line terminators.
 3. repeat(n): Result is the concatenated string of original string repeated the number of times in the argument.
 4. stripLeading(), stripTrailing(), strip(): remove white-spaces before, after, both respectively.
-5. toString(int): makes process more convenient without throwing incompatible type error message. Example : Character.toString(65) 
+5. toString(int): makes process more convenient without throwing incompatible type error message. Example : Character.toString(65)
 
 
 JDK11 Features on JSHELL
